@@ -1,0 +1,57 @@
+[2024-08-25 22:34:11][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\ThreadPool_cpp.cpp] [21] Application is starting...
+[2024-08-25 22:35:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\ThreadPool_cpp.cpp] [21] Application is starting...
+[2024-08-25 22:36:08][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\ThreadPool_cpp.cpp] [21] Application is starting...
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [197] 线程ID:60684:线程0启动
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:46280:线程0尝试获取任务
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [197] 线程ID:60684:线程1启动
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:57552:线程1尝试获取任务
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:57552:线程1获取任务成功
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:46280:线程0获取任务成功
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [92] 线程ID:60684:线程启动： 2
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [92] 线程ID:60684:线程启动： 3
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [92] 线程ID:60684:线程启动： 4
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:31304:线程3尝试获取任务
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:31304:线程3获取任务成功
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:62228:线程2尝试获取任务
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:62228:线程2获取任务成功
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:48352:线程4尝试获取任务
+[2024-08-25 23:07:17][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:48352:线程4获取任务成功
+[2024-08-25 23:07:20][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:57552:线程1尝试获取任务
+[2024-08-25 23:07:20][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:57552:线程1获取任务成功
+[2024-08-25 23:07:20][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:46280:线程0尝试获取任务
+[2024-08-25 23:07:20][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:48352:线程4尝试获取任务
+[2024-08-25 23:07:20][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:31304:线程3尝试获取任务
+[2024-08-25 23:07:20][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:62228:线程2尝试获取任务
+[2024-08-25 23:07:21][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [244] 线程ID:62228:动态创建的线程2空闲超时，回收！
+[2024-08-25 23:07:23][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:57552:线程1尝试获取任务
+[2024-08-25 23:07:23][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:57552:线程1即将结束
+[2024-08-25 23:07:23][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:31304:线程3即将结束
+[2024-08-25 23:07:23][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:46280:线程0即将结束
+[2024-08-25 23:07:23][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:48352:线程4即将结束
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:51116:线程0尝试获取任务
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [197] 线程ID:32532:线程0启动
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [197] 线程ID:32532:线程1启动
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:46228:线程1尝试获取任务
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:46228:线程1获取任务成功
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:51116:线程0获取任务成功
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [92] 线程ID:32532:线程启动： 2
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:59176:线程2尝试获取任务
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:59176:线程2获取任务成功
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [92] 线程ID:32532:线程启动： 3
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:55712:线程3尝试获取任务
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:55712:线程3获取任务成功
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [92] 线程ID:32532:线程启动： 4
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:34544:线程4尝试获取任务
+[2024-08-25 23:07:57][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:34544:线程4获取任务成功
+[2024-08-25 23:08:00][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:34544:线程4尝试获取任务
+[2024-08-25 23:08:00][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [258] 线程ID:34544:线程4获取任务成功
+[2024-08-25 23:08:00][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:55712:线程3尝试获取任务
+[2024-08-25 23:08:00][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:59176:线程2尝试获取任务
+[2024-08-25 23:08:00][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:51116:线程0尝试获取任务
+[2024-08-25 23:08:00][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:46228:线程1尝试获取任务
+[2024-08-25 23:08:03][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [220] 线程ID:34544:线程4尝试获取任务
+[2024-08-25 23:08:03][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:34544:线程4即将结束
+[2024-08-25 23:08:03][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:55712:线程3即将结束
+[2024-08-25 23:08:03][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:59176:线程2即将结束
+[2024-08-25 23:08:03][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:46228:线程1即将结束
+[2024-08-25 23:08:03][INFO] [D:\CppProject\ThreadPool_cpp\ThreadPool_cpp\threadpool.h] [228] 线程ID:51116:线程0即将结束
