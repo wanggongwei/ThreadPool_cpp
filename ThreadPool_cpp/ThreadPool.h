@@ -232,4 +232,6 @@ void ThreadPool::threadFunc(size_t threadId)
 		//执行完成，空闲线程数量++
 		_curIdleThreadNum++;
 	}
+	//首先获取锁，取任务
+
 }
