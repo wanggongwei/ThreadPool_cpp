@@ -161,9 +161,7 @@ ThreadPool::ThreadPool()
 	, _curIdleThreadNum(0)
 	, _maxTaskNum(MAX_TASK_NUM)
 	, _isPoolRunning(false)
-{
-	//线程初始化
-}
+{}
 //设置线程池模式
 void ThreadPool::setPoolMode(POOLMODE mode)
 {
